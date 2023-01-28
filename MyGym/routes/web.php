@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\GymCustomers;
+use App\Http\Controllers\LoginController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +18,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::view('signup','signup');
+
+Route::post('gymCustomer',[GymCustomers::class,'signUpCustomer']);
