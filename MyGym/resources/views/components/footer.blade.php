@@ -1,14 +1,14 @@
 <footer class="footer-gym">
 <div class="container">
 <div class="row footer-row">
-<div class="col-md-6 col-lg-3 mb-md-0 mb-4">
+<div class="col-md-6 col-lg-3 mb-md-0 mb-4" style="padding-top: inherit">
 <a href="/home"><img src="/images/logo.jpg" width="200" height="200" style="border-radius:50%; border:1px solid black" alt="logo"></a>
 </div>
-<div class="col-md-6 col-lg-3 mb-md-0 mb-4">
+<div class="col-md-6 col-lg-3 mb-md-0 mb-4" style="padding-top: inherit">
 <h2 class="footer-heading">Fitness Freaks</h2>
 <p class="footer-paragraph">Experience your real capabilities with us.</p>
 </div>
-<div class="col-md-6 col-lg-3 mb-md-0 mb-4">
+<div class="col-md-6 col-lg-3 mb-md-0 mb-4" style="padding-top: inherit">
 <h2 class="footer-heading">Categories</h2>
 <ul class="list-unstyled">
 <li><a href="#" class="footer-links nav-link">FAQs</a></li>
@@ -17,7 +17,7 @@
 <li><a href="#" class="footer-links nav-link">Careers</a></li>
 </ul>
 </div>
-<div class="col-md-6 col-lg-3 mb-md-0 mb-4">
+<div class="col-md-6 col-lg-3 mb-md-0 mb-4" style="padding-top: inherit">
 <h2 class="footer-heading">Subscribe</h2>
 <form action="#" method="post" class="form">
 <div class="form-group">
